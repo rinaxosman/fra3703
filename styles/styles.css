@@ -1,0 +1,199 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500&display=swap');
+
+html {
+    scroll-behavior: smooth;
+    font-family: "Poppins", sans-serif;
+}
+
+.side-menu {
+    position:absolute;
+    top: 500px;
+    right: 25px;
+    width: 300px;
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    overflow-y: auto;
+    box-shadow: -5px 0 15px rgba(0, 0, 0, 0.1);
+}
+
+.side-menu2 {
+    position:absolute;
+    top: 900px;
+    right: 25px;
+    width: 300px;
+    height: 30%;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    overflow-y: auto;
+    box-shadow: -5px 0 15px rgba(0, 0, 0, 0.1);
+    background: url('fss.jpg') no-repeat;
+}
+
+.side-menu3 {
+    position:absolute;
+    top: 1200px;
+    right: 25px;
+    width: 300px;
+    height: 80%;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    overflow-y: auto;
+    box-shadow: -5px 0 15px rgba(0, 0, 0, 0.1);
+    background: url('uo.png') no-repeat;
+}
+
+.side-menu4 {
+    position:absolute;
+    top: 2000px;
+    right: 25px;
+    width: 300px;
+    height: 60%;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    overflow-y: auto;
+    box-shadow: -5px 0 15px rgba(0, 0, 0, 0.1);
+    background: url('stem.jpg') no-repeat;
+}
+
+.main-content {
+    margin-right: 270px;
+}
+
+
+
+
+body, h1, h2, p, input, textarea, button, a {
+    font-family: "Poppins", sans-serif;
+}
+
+.navbar.bg-dark {
+    background-color: #141414 !important; 
+}
+
+.footer {
+    background-color: #141414 !important; 
+}
+
+.card h5 {
+    text-shadow: 3px 3px 3px rgb(19, 19, 19);
+}
+
+.card h1 {
+    text-shadow: 3px 3px 3px rgb(19, 19, 19);
+}
+
+
+
+#Welcome {
+    position: relative;
+    background: url('uottawa.jpg') no-repeat center top fixed;
+    background-size: cover;
+    color: #ffffff;
+    text-align: center;
+    padding: 150px 0;}
+
+
+#Welcome h1{
+    color: #ffffff;
+    text-shadow: 4px 4px 3px rgb(19, 19, 19);
+    transition: transform 0.3s ease;
+}
+
+#welcome-header:hover{
+    transform: scale(1.08);
+}
+
+#Welcome p {
+    color: #ffffff;
+    text-shadow: 2px 2px 2px rgb(0, 0, 0);
+}
+
+h1 {
+    text-shadow: 4px 4px 3px rgb(19, 19, 19);
+}
+
+.btn-primary {
+    background-color: #810219;
+    border-color: #810219;
+    transition: transform 0.3s ease;
+    margin-top: 15px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+#appointment-box .btn-primary{
+    background-color: #810219;
+    border-color: #0f0f0f;
+}
+
+#appointment-box .btn-primary:hover{
+    background-color: #810219;
+    border-color: #810219;
+    transform: scale(1.08);
+}
+
+.btn-primary:hover {
+    background-color: #810219;
+    border-color: #810219;
+}
+
+.card.bg-warning {
+    margin-top: 10px;
+    background-color: #d6d6d6 !important;
+}
+
+.card {
+    border: none;
+    transition: transform 0.3s ease;
+}
+
+.card:hover {
+    transform: scale(1.025);
+}
+
+
+.card-body {
+    background-color: rgb(22, 22, 22);
+    border-radius: 5px;
+    color: white;
+    font-family: "Poppins", sans-serif;
+}
+
+
+#supplémentaire .card-body {
+    background-color: #810219;
+    border-color: #810219;
+}
+
+
+.card-body:hover{
+    background-color: #810219;
+}
+
+.footer .card-body {
+    background-color: #313131 !important;
+    color: rgb(255, 255, 255);
+    a {
+        color: #ff2121;
+      }
+}
+
+.form-control {
+    font-family: "Poppins", sans-serif;
+}
+
+#appointment-box {
+    background-color: #181818;
+    /* padding: 15px; */
+    border-radius: 10px;
+    color: #191b1d;
+}
+
+#appointment-box-box {
+    padding: 15px;
+}
