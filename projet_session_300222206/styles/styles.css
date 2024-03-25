@@ -251,8 +251,7 @@ button a {
 
 .right-column {
     flex: 30%;
-    /* margin: 0 1% 0 4%; */
-    background-color: #e0e0e0;
+    /* background-color: #e0e0e0; */
     padding: 15px;
     border-radius: 4px;
 }
@@ -266,10 +265,7 @@ button a {
     height: auto;
     margin: 20px;
     padding: 20px;
-    border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    background-color: white;
-    
+    border-radius: 10px; 
 }
 
 .small-card{
@@ -278,7 +274,12 @@ button a {
     border-radius: 5px;
     align-items: center;
     justify-content: center;
-    margin-bottom: 5%;
+}
+
+.cards-bg{
+    padding: 10px;
+    border-radius: 8px;
+    background-color: rgb(232, 232, 232);
 }
 
 #rate{
@@ -303,7 +304,8 @@ button a {
 }
 
 .pros-cons-table th {
-    background-color: #789aa8;
+    background-color: #1d7195;
+    color: white;
 }
 
 h3{
