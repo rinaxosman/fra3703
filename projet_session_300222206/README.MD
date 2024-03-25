@@ -1,16 +1,16 @@
 # To-Do List: projet de session
 
-1. home page
-    - New title
-    - What is halal food
-    - "Why me" section
+- [ ] **home page**
+    - [ ] new title
+    - [ ] what is halal food
+    - [ ] "Why me" section
 
-2. p1: Shawarma Palace
-3. p2: Burgers and Fries Forever 
-4. p3: Moes BBQ
-5. p4: Mary Browns
-6. p5: Prince Ali Bakery
+- [ ] **p1: Shawarma Palace**
+- [ ] **p2: Burgers and Fries Forever**
+- [ ] **p3: Moes BBQ**
+- [ ] **p4: Mary Browns**
+- [ ] **p5: Prince Ali Bakery**
 
-7. all
-    - update rating buttons
-    - cards-bg background
+- [ ] **all pages**
+    - [ ] ppdate rating buttons
+    - [ ] cards-bg background
