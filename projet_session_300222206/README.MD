@@ -36,5 +36,6 @@
     - [ ] Images
 
 - [ ] **all pages**
-    - [ ] ppdate rating buttons
+    - [ ] add background image to header
+    - [ ] update rating buttons
     - [ ] cards-bg background
